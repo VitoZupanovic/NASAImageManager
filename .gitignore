@@ -1,0 +1,24 @@
+# Maven build output
+target/
+
+# Local database credentials
+db.properties
+
+# IDE settings
+nbproject/private/
+nbactions-private.xml
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Database backups
+*.bak
+*.mdf
+*.ldf
+
+# OS files
+.DS_Store
+Thumbs.db
